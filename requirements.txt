@@ -4,7 +4,7 @@ python-telegram-bot
 umongo==3.0.1
 tgcrypto
 pymongo[srv]==3.12.3
-motor==2.5.1
+motor
 marshmallow==3.14.1
 psutil==5.9.4
 requests
