@@ -18,7 +18,7 @@ def is_enabled(value, default):
 SESSION = environ.get('SESSION', 'Media_search')
 API_ID = int(environ.get('API_ID', "29270492"))
 API_HASH = environ.get('API_HASH', "c0ff4a728d5da8de25807766b2901111")
-BOT_TOKEN = environ.get('BOT_TOKEN', "7963505731:AAHMHnu2m7KCkFuH0NcDWWufmHK8EUTr_Lg")
+BOT_TOKEN = environ.get('BOT_TOKEN', "8034554775:AAGaZwFe6u27dyZ_NrbQwaXm9YbKlDnfoHU")
 TIMEZONE = environ.get("TIMEZONE", "Asia/Kolkata")
 
 # Bot settings
@@ -53,8 +53,8 @@ AUTH_REQ_CHANNEL = int(environ.get('AUTH_REQ_CHANNEL', '0'))
 NO_RESULTS_MSG = is_enabled((environ.get("NO_RESULTS_MSG", 'True')), True)
 
 # MongoDB information
-DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://imaxprime:imaxprime@cluster0.xe5grh2.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
-DATABASE_NAME = environ.get('DATABASE_NAME', "jayhunuman05")
+DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://jay:hanuman@hanuman.tgwobmu.mongodb.net/?retryWrites=true&w=majority&appName=Hanuman")
+DATABASE_NAME = environ.get('DATABASE_NAME', "jayhanuman")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Collection')
 
 #stream link shortner
@@ -89,8 +89,8 @@ DELETE_CHANNELS = [int(dch) if id_pattern.search(dch) else dch for dch in enviro
 MAX_B_TN = environ.get("MAX_B_TN", "7")
 MAX_BTN = is_enabled((environ.get('MAX_BTN', "True")), True)
 PORT = environ.get("PORT", "8080")
-GRP_LNK = environ.get('GRP_LNK', 'http://t.me/SKprimeviewbot')
-CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/Spromax')
+GRP_LNK = environ.get('GRP_LNK', 'http://t.me/boostdiscussion')
+CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/Boostsearch')
 MSG_ALRT = environ.get('MSG_ALRT', 'Wʜᴀᴛ Aʀᴇ Yᴏᴜ Lᴏᴏᴋɪɴɢ Aᴛ ?')
 LOG_CHANNEL = int(environ.get('LOG_CHANNEL', -1002607525840))
 GROUP_VERIFY_LOGS = int(environ.get('GROUP_VERIFY_LOGS', -1002607525840)) # Group verify stats 
