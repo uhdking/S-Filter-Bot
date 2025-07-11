@@ -3,7 +3,7 @@ class script(object):
 <b><blockquote>Iᴍ Tʜᴇ Mᴏsᴛ Aᴅᴠᴀɴᴄᴇ Aɪ Pᴏᴡᴇʀᴅ Bᴏᴛ.🥰
 Jᴜꜱᴛ Sᴇɴᴅ Mᴇ Aɴʏ Mᴏᴠɪᴇꜱ & Sᴇʀɪᴇꜱ Nᴀᴍᴇ Aɴᴅ Sᴇᴇ Mʏ Pᴏᴡᴇʀ.</b></blockquote>
 
-<b><spoiler>🔋 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ - <a href=https://t.me/imaxbots>IMAX BOTS</b></spoiler></a>"""
+<b><spoiler>🔋 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ - <a href=https://t.me/RockSrkarmy>IMAX BOTS</b></spoiler></a>"""
     
     HELP_TXT = """<b>ʜᴇʏ {},
 ᴡᴇ ʜᴀᴠᴇ ᴅᴇᴠɪᴅᴇᴅ ʙᴏᴛ ᴄᴏᴍᴍᴀɴᴅꜱ ꜰᴏʀ ɢʀᴏᴜᴘ ᴏᴡɴᴇʀꜱ ᴀɴᴅ ʙᴏᴛ ᴜꜱᴇʀꜱ.</b>"""
@@ -134,7 +134,7 @@ sᴇɴᴅ ᴀʟʟ ʙᴜᴛᴛᴏɴ ʟɪᴍɪᴛ ʀᴇᴀᴄʜᴇᴅ
 
     ABOUT_TXT = """<b>
 ‣ ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/{}>{}</a>
-‣ ᴄʀᴇᴀᴛᴏʀ : <a href=https://t.me/imaxbots>IMAX BOTS</a>
+‣ ᴄʀᴇᴀᴛᴏʀ : <a href=https://t.me/RockSrkarmy>Boost BOTS</a>
 ‣ ʟɪʙʀᴀʀʏ : ᴘʏʀᴏɢʀᴀᴍ
 ‣ ʟᴀɴɢᴜᴀɢᴇ : ᴘʏᴛʜᴏɴ
 ‣ ᴅᴀᴛᴀ ʙᴀsᴇ : ᴍᴏɴɢᴏ ᴅʙ
@@ -319,10 +319,10 @@ Money heist S0E01
     PREMIUM_CMD = """<b>
 💵 <i> ᴘʀᴇᴍɪᴜᴍ ᴘʟᴀɴs </ɪ>
 
-1. 20₹ = 1ᴍᴏɴᴛʜ
-2. 38₹ = 2ᴍᴏɴᴛʜ
-3. 55₹ = 3ᴍᴏɴᴛʜ
-4. 110₹ = 6ᴍᴏɴᴛʜ
+1. 90₹ = 1ᴍᴏɴᴛʜ
+2. 149₹ = 2ᴍᴏɴᴛʜ
+3. 199₹ = 3ᴍᴏɴᴛʜ
+4. 349₹ = 6ᴍᴏɴᴛʜ
 
 ==========================
 🎁 <u>ᴘʀᴇᴍɪᴜᴍ ғᴇᴀᴛᴜʀᴇs</u> :
